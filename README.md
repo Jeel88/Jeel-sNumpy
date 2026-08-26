@@ -133,16 +133,16 @@ Jeel-sNumpy/
 
 ## 🚀 Progress
 
-* [ ] NumPy Arrays
-* [ ] Dimensions
-* [ ] Shape
-* [ ] Indexing
-* [ ] Slicing
-* [ ] Broadcasting
-* [ ] Vectorization
-* [ ] Mathematical Operations
-* [ ] Linear Algebra
-* [ ] Random Numbers
+* [x] NumPy Arrays
+* [x] Dimensions
+* [x] Shape
+* [x] Indexing
+* [x] Slicing
+* [x] Broadcasting
+* [x] Vectorization
+* [x] Mathematical Operations
+* [x] Linear Algebra
+* [x] Random Numbers
 
 ---
 
